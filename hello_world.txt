@@ -1,1 +1,2 @@
 I'm following the directions in the exercise, hopefully I'm following them correctly.
+I'm making a change so I can test out the commit message in VS Code feature.
